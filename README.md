@@ -10,7 +10,7 @@ This project aims to build a **privacy-aware system** to analyze how hoax call n
 
 1. Clone the repository:
     ```bash
-   ''' git clone "https://github.com/koteshb25/hoax-call-temporal-analysis.git"
+   ''' git clone "https://koteshb25/Network-Evolution-Analysis.git"
     cd hoax-call-temporal-analysis
     ```
 2. Create a virtual environment (recommended via conda):
