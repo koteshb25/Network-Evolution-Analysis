@@ -1,0 +1,33 @@
+Top 15 nodes by degree centrality:
+have: Centrality = 0.4506, Degree Count = 73
+your: Centrality = 0.3704, Degree Count = 60
+hello: Centrality = 0.3148, Degree Count = 51
+that: Centrality = 0.2407, Degree Count = 39
+doing: Centrality = 0.2407, Degree Count = 39
+tell: Centrality = 0.2407, Degree Count = 39
+vodafone: Centrality = 0.2160, Degree Count = 35
+number: Centrality = 0.2037, Degree Count = 33
+will: Centrality = 0.2037, Degree Count = 33
+bank: Centrality = 0.1728, Degree Count = 28
+manager: Centrality = 0.1728, Degree Count = 28
+from: Centrality = 0.1728, Degree Count = 28
+customer: Centrality = 0.1728, Degree Count = 28
+care: Centrality = 0.1728, Degree Count = 28
+send: Centrality = 0.1667, Degree Count = 27
+
+Bottom 15 nodes by degree centrality:
+probably: Centrality = 0.0123, Degree Count = 2
+swing: Centrality = 0.0123, Degree Count = 2
+please: Centrality = 0.0185, Degree Count = 3
+like: Centrality = 0.0185, Degree Count = 3
+shower: Centrality = 0.0185, Degree Count = 3
+baby: Centrality = 0.0185, Degree Count = 3
+very: Centrality = 0.0185, Degree Count = 3
+nice: Centrality = 0.0185, Degree Count = 3
+ready: Centrality = 0.0185, Degree Count = 3
+thursday: Centrality = 0.0185, Degree Count = 3
+forwarded: Centrality = 0.0247, Degree Count = 4
+message: Centrality = 0.0247, Degree Count = 4
+thought: Centrality = 0.0247, Degree Count = 4
+seventeen: Centrality = 0.0247, Degree Count = 4
+pounds: Centrality = 0.0247, Degree Count = 4

@@ -1,0 +1,7 @@
+Real Network - Nodes: 136
+Clustering Coefficient: 0.0238
+Average Path Length: 6.6824
+
+Watts-Strogatz Network
+Clustering Coefficient: 0.1707
+Average Path Length: 4.0552
